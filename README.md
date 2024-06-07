@@ -40,7 +40,7 @@ Este é um aplicativo de gerenciamento de tarefas desenvolvido com React Native.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/arthurfrossard/Task-List-2.0-React-Native.git
+   git clone https://github.com/arthurfrossard/Task-List-React-Native.git
    cd task-manager-app
    ```
 
